@@ -1,0 +1,34 @@
+
+
+L'objectif de  la tâche était la classification  de textes d'opinions.
+Le  corpus  de  critiques  de  films,  livres,  spectacles  et  bandes
+dessinées   (http://www.avoir-alire.com)   comporte   environ  3   000
+critiques et  les notes  qui leur sont  associées. En  effet, beaucoup
+d'organes de diffusion de critiques  de films ou de livres attribuent,
+en plus  du commentaire, une note au  film ou au livre  sous une forme
+icônique. Nous  avons retenu  une échelle de  3 niveaux de  notes, qui
+donne 3 classes bien discriminées : la classe 0 (mauvais), la classe 1
+(moyen), et la classe 2 (bien).
+
+Exemples
+
+    * Classe : 0
+
+          o Critique  : ... Mais  cette esbroufe formelle  ne parvient
+pas à  masquer l'indigence gravissime d'un scénario  ... dont l'humour
+vaseux et les fausses pistes éculées agacent et ennuient...
+
+    * Classe : 1
+
+          o Critique : ... Malgré tout, ce roman manque singulièrement
+d'éclat.   Certes, il  est jalonné  de  détails attachants  de la  vie
+quotidienne et son  écriture est fluide, comme une  évidence.  Mais la
+simplicité a ses limites ...
+
+    * Classe : 2
+
+          o Critique :  ... Une jolie comédie qui  s'interroge sur les
+amours  de   jeunesse,  les  rêves  d'antan   et  les  responsabilités
+d'aujourd'hui... Une  comédie au thème très classique  mais menée avec
+beaucoup de finesse ...
+
