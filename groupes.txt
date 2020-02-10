@@ -1,1 +1,4 @@
-groupes pour le projets RE et IE
+groupes pour le projets RE et IE : 
+
+<nom groupe>
+	<nom prenom> <tâche choisie> 
