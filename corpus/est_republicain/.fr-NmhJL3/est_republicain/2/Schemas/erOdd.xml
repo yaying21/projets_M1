@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>TEI Est Républicain : Encodage du corpusTEI P5</title>
+	<author>Kamel Nebhi</author>
+	<author>Bertrand Gaiffe</author>
+      </titleStmt>
+      <publicationStmt><p>Cette documentation est librement diffusable</p></publicationStmt>
+      <sourceDesc><p>Document né sous forme électronique. En fait complètement retapé à partir de la doc engendrée via le odd originel.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div>
+      <head>Introduction</head>
+      <p>
+	Chaque fichier du corpus Est Républicain/CNRTL correspond à un ensemble d'éditions du journal. L'Est Républicain est un journal régional dont chaque numéro se compose :
+<list>
+  <item>De pages nationales et internationales communes à toutes les éditions locales</item>
+  <item>De pages régionales communes aux éditions locales de cette région (Vosges, Lorraine, Franche-comté)</item>
+  <item>De pages spécifiques à une édition locale (Nancy, Pont-à-Mousson, etc.).
+  </item>
+      </list></p>
+      <p>
+Chaque fichier encodé regroupe l'ensemble des pages apparaissant dans chaque édition locale. On y trouve donc la totalité des pages nationales, régionales ou locales de l'ensemble des éditions du journal de cette journée.</p>
+
+<p>Le schéma permettant d'encoder les fichiers TEI est issu d'une personnalisation de la TEI que le présent document décrit.</p>
+
+<p>Notre personnalisation de la TEI n'inclut que les modules tei, core, textstructure, header et figure.</p>
+<specGrp xml:id="modules">
+  <moduleRef key="tei"/>
+  <moduleRef key="core" include="address addrLine date head name p resp respStmt title"/>
+  <moduleRef key="textstructure" include="body closer div postscript signed TEI text"/>
+  <moduleRef key="header" include="availability change distributor editionStmt  fileDesc publicationStmt revisionDesc sourceDesc teiHeader titleStmt"/>
+  <moduleRef key="figures" include="figure"/>
+</specGrp>
+<p>Nous avons supprimé certains éléments des modules car nous les avons jugés inutiles pour l'encodage du Corpus Est Républicain. Nous avons également restreint certaines valeurs d'attributs. Parfois, certains éléments inutilisés feront l'objet d'une explication détaillée.</p>
+<p>En fait, les seules élements TEI utilisés dans le corpus sont :
+<list>
+  <item>address</item>
+<item>addrLine</item>
+<item>availability</item>
+<item>body</item>
+<item>change</item>
+<item>closer</item>
+<item>date</item>
+<item>distributor</item>
+<item>div</item>
+<item>editionStmt</item>
+<item>figure</item>
+<item>fileDesc</item>
+<item>head</item>
+<item>name</item>
+<item>p</item>
+<item>postscript</item>
+<item>publicationStmt</item>
+<item>resp</item>
+<item>respStmt</item>
+<item>revisionDesc</item>
+<item>signed</item>
+<item>sourceDesc</item>
+<item>TEI</item>
+<item>teiHeader</item>
+<item>text</item>
+<item>title</item>
+<item>titleStmt</item>
+</list>
+</p>
+<specGrp xml:id="suppressionElementsVrac">
+ <!-- en fait, c'est plus commode d'utiliser l'attribut unclude sur moduleRef.... cf donc le specGrp précédent -->
+</specGrp>
+<p>Nous expliquerons en détail la structure de notre corpus en fournissant divers exemples. 
+      </p>
+    </div>
+    <div>
+      <head>Structure d'un fichier TEI Est Républicain</head>
+      <p>
+	Tous les documents TEI doivent contenir :
+<list>
+  <item>un TEI header (marqué comme un élément <gi>teiHeader</gi>)</item>
+  <item>la transcription du texte (marquée comme un élement <gi>text</gi>).</item>
+</list>
+Ces deux éléments sont combinés pour former un seul élément TEI.</p>
+
+<p>Le Tei Header fournit les informations descriptives et déclaratives précédant chaque texte conforme à la TEI et qui permettent de constituer une page de titre électronique. Le Tei Header de nos fichiers contient deux parties : une description bibliographique du fichier électronique et un résumé de l’historique des révisions apportées à ce fichier.</p>
+<p>
+Dans notre cas, le header est minimal ; il ne contient que :
+<list>
+  <item>la date de l'édition codée sous forme de date dans le title,</item>
+  <item>le nom de la personne qui a réalisé l'encodage en TEI,</item>
+  <item>les conditions de distribution,</item>
+  <item>l'historique des révisions du fichier,</item>
+  <item>l'organisme responsable de la publication (CNRTL)</item></list>
+</p>
+<p>
+    Concrètement, voici le header d'un de nos fichiers :
+    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+      <teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title> L'Est Républicain : édition du <date when="2003-01-02">2 janvier 2003</date>
+   </title>
+   <respStmt>
+    <name>B. Gaiffe</name>
+    <resp>conversion en TEI</resp>
+   </respStmt>
+  </titleStmt>
+  <editionStmt>
+   <p/>
+  </editionStmt>
+  <publicationStmt>
+   <distributor>CNRTL-CNRS</distributor>
+   <address>
+    <addrLine>44, avenue de la libération</addrLine>
+    <addrLine>BP 30687</addrLine>
+    <addrLine>54063 Nancy Cedex</addrLine>
+    <addrLine>FRANCE</addrLine>
+   </address>
+   <availability status="free">
+    <p>Dans un cadre de recherche ou d'enseignement à l'exclusion de toute utilisation commerciale et sous réserve de citation de la source : Est Républicain/CNRTL</p>
+   </availability>
+  </publicationStmt>
+  <sourceDesc>
+   <p> l'Est Républicain </p>
+  </sourceDesc>
+ </fileDesc>
+ <revisionDesc>
+  <change when="2009-03" who="Kamel Nebhi">Transformation des éléments div dont l'attribut type avait pour valeur sousDiv ou generated en élément div sans attribut.</change>
+  <change when="2009-03" who="Kamel Nebhi">Suppression des balises vides des fichiers.</change>
+  <change when="2009-03" who="Kamel Nebhi">Nettoyage des éléments signed contenant parfois des fausses signatures (ex: En Meuse, En Nancy, etc.)</change>
+  <change when="2009-03" who="Kamel Nebhi">Création d'un élément name contenu dans l'élément signed. Cet élément contient le nom de la personne auteur d'un article ou ayant recueillis des propos, etc.</change>
+  <change when="2009-03" who="Kamel Nebhi"> Création d'un attribut key pour l'élément name. Cet attribut a été uniformisé au maximum.</change>
+  <change when="2009-03" who="Kamel Nebhi">Création d'un fichier de clé nommé key_name.xml(fichier TEI). Ce fichier contient l'ensemble des clés et des valeurs associées à chacune. </change>
+  <change when="2009-03" who="Kamel Nebhi">Création d'un fichier ODD qui comprend une documentation détaillée sur les fichiers du corpus Est Républicain et une personnalisation de la TEI(suppression d'éléments, restriction sur les valeurs d'attributs, etc.). Ce fichier permet de générer un schéma RNG qui valide les fichiers du corpus Est Républicain.</change>
+ </revisionDesc>
+</teiHeader>
+    </egXML>
+
+    Un TEI <gi>text</gi> contient un <gi>body</gi>  qui lui même contient les divisions composant le texte..
+    Un texte sera donc encodé de cette façon :
+    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+      <TEI>
+ <teiHeader>
+<!-- [ TEI Header information ] -->
+ </teiHeader>
+ <text>
+  <body>
+<!-- [ body du texte ... ] -->
+  </body>
+ </text>
+</TEI>
+    </egXML>
+      </p>
+    </div>
+
+    <div>
+      <head>Encodage de l'élément body</head>
+      <p>Comme il est indiqué ci dessus, un document TEI contient l'élément body. Le body (corps du texte) contient la totalité du corps d’un seul texte simple. Dans cette partie, nous allons voir les éléments qui font le body.</p>
+      <p>
+	Les éléments :
+<list>
+  <item><gi>back</gi></item>
+  <item>et <gi>front</gi></item>
+</list>
+<specGrp xml:id="outBack_AndFront">
+  <elementSpec ident="back" module="textstructure" mode="delete"/>
+  <elementSpec ident="front" module="textstructure" mode="delete"/>
+</specGrp>
+ont été supprimés de notre personnalisation car le corpus ne contenait pas de texte préliminaire qui aurait pu être contenu dans l'élément <gi>front</gi> ou encore de texte postliminaire (placé après la partie principale du texte) contenu habituellement dans le <gi>back</gi>. 
+      </p>
+
+      <div>
+	<head>Eléments de division de texte</head>
+
+	  <p>Le body d'un texte doit être regroupé en parties et sous-parties, etc.</p>
+
+<p>Dans notre cas particulier, le premier niveau de division correspond aux pages spécifiques aux éditions. On y trouve donc une division pour les pages nationales, une division pour les pages sportives, une division pour l'édition spécifique de Belfort, etc.</p>
+<p>A l'intérieur de ce premier niveau de division, chaque article du journal donne lui même lieu à une sous-division (une div dont l'attribut type vaut article). Enfin, à l'intérieur de ces divisions, on trouve les paragraphes (reconstitués plus ou moins bien) qui composent l'article. Les paragraphes sont encodés avec l'élément p :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <p>Enchantés, les skieurs de fond venus hier de toute la Lorraine pour
+goûter aux trente km de pistes fraîchement ouvertes à Lispach ! Pour
+le premier vrai week-end de ski de à la Bresse, les familles et les
+sportifs n'ont pas boudé leur plaisir. Parmi les randonneurs de ce
+dimanche : Yvon Mougel, douze fois champion de France de fond et de
+biathlon ! </p>
+</egXML>
+</p>
+<p>
+Attention, dans certains cas, les articles contiennent à leur tour des sous-divisions.</p>
+<p>Dans l'encodage, nous avons décidé de ne pas employer de divisions numérotées ; mais de typer l'élément div par des valeurs de l'attribut type qui peuvent être :
+<list>
+
+  <item>part : les parties du journal (édition de Belfort, de Nancy, pages sportives, etc.)</item>
+  <item>article : les différents articles contenus dans une édition de l'Est Républicain</item>
+  <item>accroche : les divisions de texte étant un point d'accroche à un article plus long présent dans le journal (typiquement, ces accroches apparaissent en première page du journal et invitent à se reporter à un article particulier).</item>
+</list></p>
+<p>
+Les divisions de type part portent un attribut subtype . dont les valeurs peuvent être :
+<list>
+  <item>BAR : Pages spécifiques à l'édition de Bar le Duc</item>
+  <item>BEL : Pages spécifiques à l'édition de Belfort</item>
+  <item>BES : Pages spécifiques à l'édition de Besançon</item>
+  <item>EPI : Pages spécifiques à l'édition d'Epinal</item>
+  <item>NCY : Pages spécifiques à l'édition de Nancy</item>
+  <item>LUN :Pages spécifiques à l'édition de Lunéville</item>
+  <item>MMO : Pages spécifiques à l'édition de Meurthe et Moselle</item>
+  <item>NEU : Pages spécifiques à l'édition de Neufchateau</item>
+  <item>PTM : Pages spécifiques à l'édition de Pont-à-Mousson</item>
+  <item>SFC : Pages spécifiques sports Franche-Comté</item>
+  <item>VER : Pages spécifiques à l'édition de Verdun</item>
+  <item>VES : Pages spécifiques à l'édition de Vesoul</item>
+  <item>GBN : Pages spécifiques à l'édition de la grande banlieue Nord</item>
+  <item>GBS : Pages spécifiques à l'édition de la grande banlieue Sud</item>
+  <item>MEU : Pages spécifiques à l'édition de la Meuse</item>
+  <item>MTB : Pages spécifiques à l'édition de Montbéliard</item>
+  <item>NCO : Pages spécifiques à l'édition de Nancy Communauté</item>
+  <item>TOU : Pages spécifiques à l'édition de Toul</item>
+  <item>SLO : Pages spécifiques sports Lorraine</item>
+  <item>SNA : Pages spécifiques sport national</item>
+  <item>SVO : Pages spécifiques sports Vosges</item>
+  <item>ING : Pages spécifiques informations générales</item>
+  <item>VOG : Pages spécifiques à l'édition des Vosges</item>
+  <item>RLO : Pages spécifiques Région Lorraine</item>
+  <item>RFC : Pages spécifiques Région Franche-Comté</item>
+  <item>REM : Pages spécifiques à l'édition de Remiremont</item>
+  <item>STD : Pages spécifiques sport Saint Dié</item>
+  <item>SME</item>
+  <item>VIV : Pages spécifiques Vivre</item>
+  <item>CMG</item>
+  <item>CAV</item>
+  <item>CAP</item>
+  <item>CSN</item>
+  <item>SMM</item>
+  <item>TAP</item>
+  <item>HIP</item>
+</list>
+</p>
+<specGrp xml:id="typesSousTypesDiv">
+  <elementSpec ident="div" mode="change" module="textstructure">
+    <attList>
+      <attDef ident="type" mode="change">
+	<valList>
+	  <valItem ident="part"/>
+	  <valItem ident="article"/>
+	  <valItem ident="accroche"/>
+	</valList>
+      </attDef>
+      <attDef ident="subtype">
+	<valList>
+	  <valItem ident="BAR">
+	    <desc>Pages spécifiques à l'édition de Bar le Duc</desc>
+	  </valItem>
+	  <valItem ident="BEL">
+	    <desc>Pages spécifiques à l'édition de Belfort</desc>
+	  </valItem>
+          <valItem ident="BES">
+	    <desc>Pages spécifiques à l'édition de Besançon</desc>
+	  </valItem>
+	  <valItem ident="EPI">
+	    <desc>Pages spécifiques à l'édition d'Epinal</desc>
+	  </valItem>
+	  <valItem ident="NCY">
+	    <desc>Pages spécifiques à l'édition de Nancy</desc>
+	  </valItem>
+	  <valItem ident="LUN">
+	    <desc>Pages spécifiques à l'édition de Lunéville</desc>
+	  </valItem>
+	  <valItem ident="MMO">
+	    <desc>Pages spécifiques à l'édition de Meurthe et Moselle</desc>
+	  </valItem>
+	  <valItem ident="NEU">
+	    <desc>Pages spécifiques à l'édition de Neufchateau</desc>
+	  </valItem>
+	  <valItem ident="PTM">
+	    <desc>Pages spécifiques à l'édition de Pont-à-Mousson</desc>
+	  </valItem>
+	  <valItem ident="SFC">
+	    <desc>Pages spécifiques sports Franche-Comté</desc>
+	  </valItem>
+	  <valItem ident="VER">
+	    <desc>Pages spécifiques à l'édition de Verdun</desc>
+	  </valItem>
+	  <valItem ident="VES">
+	    <desc>Pages spécifiques à l'édition de Vesoul</desc>
+	  </valItem>
+	  <valItem ident="GBN">
+	    <desc>Pages spécifiques à l'édition de la grande banlieue Nord</desc>
+	  </valItem>
+	  <valItem ident="GBS">
+	    <desc>Pages spécifiques à l'édition de la grande banlieue Sud</desc>
+	  </valItem>
+	  <valItem ident="MEU">
+	    <desc>Pages spécifiques à l'édition de la Meuse</desc>
+	  </valItem>
+	  <valItem ident="MTB">
+	    <desc>Pages spécifiques à l'édition de Montbéliard</desc>
+	  </valItem>
+	  <valItem ident="NCO">
+	    <desc>Pages spécifiques à l'édition de Nancy Communauté</desc>
+	  </valItem>
+	  <valItem ident="TOU">
+	    <desc>Pages spécifiques à l'édition de Toul</desc>
+	  </valItem>
+	  <valItem ident="SLO">
+	    <desc>Pages spécifiques sports Lorraine</desc>
+	  </valItem>
+	  <valItem ident="SNA">
+	    <desc>Pages spécifiques sport national</desc>
+	  </valItem>
+	  <valItem ident="SVO">
+	    <desc>Pages spécifiques sports Vosges</desc>
+	  </valItem>
+	  <valItem ident="ING">
+	    <desc>Pages spécifiques informations générales</desc>
+	  </valItem>
+	  <valItem ident="VOG">
+	    <desc>Pages spécifiques à l'édition des Vosges</desc>
+	  </valItem>
+	  <valItem ident="RLO">
+	    <desc>Pages spécifiques Région Lorraine</desc>
+	  </valItem>
+	  <valItem ident="RFC">
+	    <desc>Pages spécifiques Région Franche-Comté</desc>
+	  </valItem>
+	  <valItem ident="REM">
+	    <desc>Pages spécifiques à l'édition de Remiremont</desc>
+	  </valItem>
+	  <valItem ident="STD">
+	    <desc>Pages spécifiques sport Saint Dié</desc>
+	  </valItem>
+	  <valItem ident="SME"/>
+	  <valItem ident="VIV">
+	    <desc>Pages spécifiques Vivre</desc>
+	  </valItem>
+	  <valItem ident="CMG"/>
+	  <valItem ident="CAV"/>
+	  <valItem ident="CAP"/>
+	  <valItem ident="CSN"/>
+	  <valItem ident="SMM"/>
+	  <valItem ident="TAP"/>
+	  <valItem ident="HIP"/>
+	</valList>
+      </attDef>
+    </attList>
+  </elementSpec>
+</specGrp>
+<p>
+Nous n'avons pas (pour l'instant) retrouvé le sens de toutes les valeurs. Notez que dans un fichier donné, toutes ces divisions n'apparaissent pas nécessairement ; en particulier, certains cahiers du journal n'appraissent que les dimanches, les divisions varient dans le temps, etc.</p>
+<p>
+Un texte aura donc cette structure :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <TEI>
+ <teiHeader>
+<!-- [ TEI Header information ] -->
+ </teiHeader>
+ <text>
+  <body>
+<!-- [ body of text ... ] -->
+   <div type="part" subtype="BAR">
+    <head>Pages spécifiques à l'édition de Bar le Duc</head>
+    <div type="article">
+     <div type="accroche">
+      <p> Un chasseur a constaté hier matin que le
+             château d'eau de Revigny-sur-Ornain avait
+             été la cible de vandales. </p>
+     </div>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>
+</egXML>
+	</p>
+      </div>
+
+      <div>
+	<head>Head</head>
+	<p>
+	  Chaque élément div peut contenir un head (hormis les éléments div dont la valeur de l'attribut type a pour valeur accroche).</p>
+
+<p>L'élément <gi>head</gi> ou (en-tête) contient tout type d'en-tête, par exemple le titre d'une section, ou l'en-tête d'une liste, d'un glossaire, d'une description de manuscrit, etc.</p>
+
+<p>Pour notre corpus, <gi>head</gi> est utilisé pour définir le titre des articles (divisions de type article )ou part (les éditions spécifiques dont les titres sont arbitraires) ou encore pour les éléments <gi>div</gi> n'ayant pas d'attributs (dans notre cas, les sous-divisions d'articles).</p>
+
+<p>L'élément <gi>head</gi> est également utilisé pour décrire l'en-tête de l'élément <gi>figure</gi>. Dans ce cas, il possède un attribut type qui a pour valeur legende. Ceci correspond à des photos (non présentes dans les fichiers) ; voir à ce sujet 7 Figures.</p>
+<p>
+Voici un exemple d'encodage pour notre texte :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <div type="part" subtype="BAR">
+ <head>Pages spécifiques à l'édition de Bar le Duc</head>
+ <div type="article">
+  <head> La vie et rien d'autre </head>
+  <figure>
+   <head type="legende"> Les vœux du centre social : une
+       tradition incontournable. </head>
+  </figure>
+ </div>
+</div>
+</egXML>
+	</p>
+      </div>
+    </div>
+      <div>
+	<head>Closer, Signed, Name</head>
+	<p>
+	  La fin d'une division peut comporter un élément closer qui regroupe une formule de politesse, une indication d'une date et d'autres expressions semblables figurant comme expression en particulier à la fin d’une lettre.
+
+Pour notre corpus, closer contient les signatures ou des formules de fin d'article donnant des informations sur l'origine d'un article.
+
+L'élément closer comporte obligatoirement un élément name qui contiendra un nom propre.
+Par exemple, pour un article qui a été recueillis par un auteur spécifique nous aurons cette structure :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <closer>Propos recueillis par <name key="G.MALBRUNOT"> G. Malbrunot </name>
+</closer>
+</egXML>
+Notons que l'élément name contient un attribut key. L'attribut key fournit un identifiant normalisé pour l'objet inclus dans l'élément name. Nous avons donc la même référence pour un même individu. Par exemple :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <closer>Propos recueillis par <name key="G.MALBRUNOT"> Georges Malbrunot
+ </name>
+</closer>
+</egXML>
+Ici, l'identifiant de l'attribut key sera de même nature que pour le précédent exemple malgré les différences du contenu de l'élément name.
+Prenons maintenant l'exemple des articles contenant une signature véritable; c'est-à-dire des articles rédigés par un ou plusieurs auteurs. Dans ce cas de figure, nous aurons la présence de l'élément signed qui représente la signature à la fin d'une division de texte. L'élément signed contient lui aussi l'élément name avec les mêmes caractéristiques évoquées ci-dessus. Un exemple :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <closer> En Région l'article de <signed>
+  <name key="F.MOULIN">François MOULIN</name>
+ </signed>
+</closer>
+</egXML>
+Un article peut comporter plusieurs signatures dans ce cas nous aurons :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <closer> En Région l'article de <signed>
+  <name key="F.MOULIN">François MOULIN</name>
+   et
+ <name key="G.MALBRUNOT"> Georges Malbrunot
+  </name>
+ </signed>
+</closer>
+</egXML>
+Nous spécifions également que l'élément closer peut être présent dans un élément div qui ne contient pas de p. Par exemple,
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <div type="article">
+ <div>
+  <head> Corruption de mineurs : des familles mobilisées à Gerbéviller (54 ) </head>
+  <closer> En Région l'article de <signed>
+    <name key="F.MOULIN">François MOULIN</name>
+   </signed>
+  </closer>
+ </div>
+</div>
+</egXML>
+	</p>
+      </div>
+      
+   
+    <div>
+      <head>Postscript</head>
+      <p>L'élément postscript contient un élément que l'on retrouvera au bas d'un article ou d'une division de texte.
+
+      Exemple :
+      <egXML xmlns="http://www.tei-c.org/ns/Examples">
+	<div>
+ <p> Les deux équipages de l'UTBM n'ont pas encore bouclé leur budget - il
+   tourne autour de 4.000 € - ni récolté la totalité des 50 kg de stylos et
+   cahiers. Les sponsors sont toujours les bienvenus. </p>
+ <postscript>
+  <p> Pour sponsoriser les deux équipages, vous pouvez contacter Maxime
+     Roos au 06.64.69.74.53 et Olivier Blandon au 06.75.54.39.40. </p>
+ </postscript>
+</div>
+      </egXML>
+      </p>
+    </div>
+    <div>
+      <head>Dates</head>
+      <p>L'élément date contient une date exprimée dans n'importe quel format.
+
+La valeur de l'attribut when fournit un identifiant normalisé qui respecte la norme ISO 8601
+
+Pour l'instant, la seule date encodée comme telle est celle apparaissant dans le <gi>header</gi> :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <title> L'Est Républicain : édition du <date when="1999-05-17">17 mai 1999</date>
+</title>
+</egXML>
+      </p>
+    </div>
+    <div>
+      <head>Figures</head>
+      <p>
+	Certains éléments de notre document peuvent ne pas être textuels. Un document peut contenir des graphiques ou des illustrations. L'encodage permettra de spécifier la présence de ces éléments avec une description textuelle de cette illustration. Nous préciserons la présence à un endroit précis d'un graphique ou d'une illustration sans les joindre au document électronique.
+
+L'élément figure regroupera des éléments représentant ou contenant une information graphique comme une illustration ou une figure.
+
+Comme nous l'avons vu précedemment, cet élément figure va contenir un élément head qui aura pour attribut type. La valeur de cet attribut sera : legende.
+Il faut aussi préciser que les éléments figure ne sont plus, contrairement à la version précédente du corpus, contenus dans les éléments head comme sur cet exemple :
+
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <head> Eve-Camille agrandit la famille
+<figure>
+  <head type="legende"> Eve-Camille est protégée par ses deux soeurs.
+  </head>
+ </figure>
+</head>
+</egXML>
+Il se présentent maintenant sous cette forme :
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <head> Eve-Camille agrandit la famille </head>
+<figure>
+ <head type="legende"> Eve-Camille est protégée par ses deux soeurs.
+ </head>
+</figure>
+</egXML>
+      </p>
+    </div>
+    <div>
+      <head>Méta-données : le TeiHeader</head>
+      <p>Chaque document TEI possède un header qui contient des informations sur le document électronique. Comme nous l'avons vu notre teiHeader est minimal et contient : fileDesc (Description bibliographique du fichier) L'élément Description bibliographique du fichier <gi>filedesc</gi> contient une description bibliographique complète du fichier électronique.revisionDesc (Description des révisions) L’élément Description des révisions revisionDesc fournit un résumé de l’historique des révisions d’un fichier.
+      </p>
+      <div>
+	<head>File Description : Description du fichier</head>
+	<p>L'élément fileDesc est obligatoire. Il contient une description bibliographique du fichier avec les élément suivants : titleStmt (Mention de titre) L’élément Mention de titre titleStmt regroupe les informations sur le titre d’une œuvre et les personnes ou institutions responsables de son contenu intellectuel.editionStmt (Mention d'édition) L’élément Mention d'édition editionStmt regroupe les informations relatives à l’édition d’un texte.publicationStmt (Mention de publication) L’élément Mention de publication publicationStmt regroupe des informations concernant la publication ou la diffusion d’un texte électronique ou d’un autre type.sourceDesc (Description de la source) L’élément Description de la source sourceDesc fournit une description bibliographique de l’exemplaire à partir duquel le texte électronique a été dérivé ou généré, ou des exemplaires le cas échéant.
+	</p>
+	<div>
+	  <head>Title Statement : Mention de titre</head>
+	  <p>Les éléments suivants sont utilisés dans le titleStmt: title (titre) contient le titre complet d'une oeuvre quelconquerespStmt (mention de responsabilité) fournit une mention de responsabilité pour le contenu intellectuel d'un texte, d'une édition, d'un enregistrement ou d'une publication en série, lorsque les éléments spécifiques relatifs aux éditeurs, éditeurs, etc. ne suffisent pas ou ne s'appliquent pas.
+L'élément respStmt contient : resp (responsabilité) contient une expression décrivant la nature de la responsabilité intellectuelle d'une personnename (nom, nom propre) contient un nom propre ou un syntagme nominal Exemple:
+<egXML xmlns="http://www.tei-c.org/ns/Examples">
+  <titleStmt>
+ <title> L'Est Républicain : édition du <date when="2003-01-20">20 janvier 2003</date>
+ </title>
+ <respStmt>
+  <name>B. Gaiffe</name>
+  <resp>conversion en TEI</resp>
+ </respStmt>
+</titleStmt>
+</egXML>
+	  </p>
+	</div>
+	<div>
+	  <head>Edition Statement : Mention d'édition</head>
+	  <p>L'élément editionStmt est obligatoire en TEI. Dans notre encodage actuel, il se limite à un p vide. 
+	  </p>
+	</div>
+	<div>
+	  <head>Publication Statement : Elément de Publication</head>
+	  <p>L'élément publicationStmt est obligatoire. Il contient les éléments suivants : address contient une adresse postale ou d'un autre type, par exemple l'adresse d'un éditeur, d'un organisme ou d'une personne.distributor (Diffuseur) L'élément Diffuseur distributor fournit le nom d’une personne ou d’une collectivité responsable de la diffusion d’un texte.availability (Disponibilité) L’élément Disponibilité availability fournit des informations sur la disponibilité du texte, par exemple toutes restrictions sur son usage ou sa diffusion, son statut de copyright, etc.
+	  Exemple:
+	  <egXML xmlns="http://www.tei-c.org/ns/Examples">
+	    <publicationStmt>
+ <distributor>CNRTL-CNRS</distributor>
+ <address>
+  <addrLine>44, avenue de la libération</addrLine>
+  <addrLine>BP 30687</addrLine>
+  <addrLine>54063 Nancy Cedex</addrLine>
+  <addrLine>FRANCE</addrLine>
+ </address>
+ <availability status="free">
+  <p>Dans un cadre de recherche ou d'enseignement à
+     l'exclusion de toute utilisation commerciale et sous
+     réserve de citation de la source : Est
+     Républicain/CNRTL</p>
+ </availability>
+</publicationStmt>
+	  </egXML>
+	  </p>
+	</div>
+	<div>
+	  <head>Source Description : Description de la source</head>
+	  <p>
+	    L'élément sourceDesc est obligatoire. Il fournit une description bibliographique de l’exemplaire à partir duquel le texte électronique a été dérivé ou généré, ou des exemplaires le cas échéant. Il contient simplement un élément de prose : p (paragraphe) marque les paragraphes dans un texte en prose
+	    Exemple:
+	    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+	      <sourceDesc>
+ <p> l'Est Républicain </p>
+</sourceDesc>
+	    </egXML>
+	  </p>
+	</div>
+	
+      </div>
+      <div><head>Revision Description : Description des révisions</head>
+      <p>L'élément revisionDesc fournit un résumé de l’historique des révisions d’un fichier. Les changements sont encodés avec la succession d'éléments change . Chacun de ces éléments contient une brève description des changements. Les attributs date et who sont utilisés pour identifier quand le changement a eu lieu et qui a été responsable de ce changement.
+      <egXML xmlns="http://www.tei-c.org/ns/Examples">
+	<revisionDesc>
+ <change when="2009-03" who="Kamel Nebhi"> Création d'un attribut
+ <ident>key</ident> pour l'élément <gi>name</gi> qui va
+   contenir une clé correspondant au nom d'une personne. Cette clé
+   a été uniformisée au maximum.</change>
+<!-- liste des révisions effectuées sur les fichiers  de l'Est Républicains-->
+</revisionDesc>
+      </egXML>
+      </p>
+      </div>
+    </div>
+    <div>
+      <head>Spécifications du schéma</head>
+      <schemaSpec ident="estRepublicain">
+	<specGrpRef target="#modules"/>
+	<specGrpRef target="#suppressionElementsVrac"/>
+	<specGrpRef target="#outBack_andFront"/>
+	<specGrpRef target="#typesSousTypesDiv"/>
+      </schemaSpec>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+<title>L'Est républicain éditions du <date when="2009-01-01">01/01/2009</date></title>
+     </titleStmt>
+
+    <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt> 
+      <sourceDesc>
+            <p>Archives de l'Est Républicain</p>
+      </sourceDesc>
+</fileDesc>
+  </teiHeader>
+<TEI xml:id="id2009_01_6298976">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T01:17:33+02:00">08/07/2016 à 01h17min33s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6298976</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6298976.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="114.22" lrx="367.12" lry="56.21"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>50 ans de bonheur partagé pour Armande et Yvon</head>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6298980">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:57:39+02:00">07/07/2016 à 22h57min39s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6298980</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6298980.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.04" uly="174.98" lrx="157.43" lry="56.70"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="PUCE">
+            <p> 18 octobre 1958 - 18 octobre 2008 : c'est fait ! Armande (née Arma Bovi) et Yvon Donatien ont atteint le cap symbolique des 50 ans de mariage qu'ils fêtent, en famille, ce 9 novembre 2008 au Centre des Congrès d'Epinal. Une belle et longue histoire pour ce couple qui donna naissance à trois beaux enfants : Eric, le 5 juin 1959, suivi par Jean-Marc le 29 mai 1961 et la petite dernière, Sylviane née le 5 décembre 1967. Avec l'aide de Nicole, Yvan et Catherine, six magnifiques petits-enfants sont là pour assurer une prolifique descendance : Leslie, Morgane, Delphine, Virginie, Brice et le petit dernier, Valentin. Une belle aventure...</p>
+            <p> Lire notre supplément spécial et en couleur de 88 pages</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300746">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T01:49:12+02:00">08/07/2016 à 01h49min12s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300746</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300746.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="176.58" uly="349.35" lrx="104.30" lry="14.98"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> 18 octobre 1958 ! Yvon Donatien (à gauche) né le 6 novembre 1938, prend pour épouse la charmante Armande qui a vu le jour le 11 mai 1940. Les deux tourtereaux s'étaient rencontrés dans un bal. Masqué ? Nul ne le sait...</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300747">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T19:06:59+02:00">07/07/2016 à 19h06min59s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300747</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300747.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="349.32" lrx="157.47" lry="15.09"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Les six petits-enfants (quatre filles et deux garçons... vive la parité !) sont prêts à assurer la relève pour, entre autre, payer les retraites des grands-parents et des parents. Chaque fête de Noël est ainsi l'occasion de se retrouver en famille. Les enfants sont gâtés et arborent un large sourire devant le sapin. (Photos d'archives Bibliothèque Nationale)</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300748">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T00:59:58+02:00">08/07/2016 à 00h59min58s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300748</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300748.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="370.39" lrx="129.36" lry="76.41"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Armande</head>
+            <div type="PUCE">
+              <p> Excellente couturière, très bonne cuisinière (ah ! ses fameuses tartes au sucre et sa sauce tomate...), Armande, née Arma Bovi, mère au foyer, sait tout faire. Aucune tache sur les vêtements ne peut lui résister. C'est la Mamie anti-taches. D'un dynamisme inébranlable, elle faisait partie d'un club de marche, allait à la gymnastique et à l'aquagym avant qu'une vilaine blessure à la cheville survenue dans une sombre forêt en 1997, ne vienne calmer ses ardeurs. Elle ne sait jamais comment faire pour assouvir les désirs de ses petits-enfants qu'elle adore accueillir pendant les vacances scolaires. Et vive les parties de plaisir dans la grande chambre dortoir ! Sans compter les jeux de cartes. Mais attention, car Mamie Armande n'aime pas perdre...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300751">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:06:51+02:00">07/07/2016 à 18h06min51s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300751</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300751.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="151.62" uly="370.53" lrx="129.26" lry="76.62"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Yvon</head>
+            <div type="PUCE">
+              <p> Une vie bien remplie Papi Yvon ! Parti faire la guerre d'Algérie, il fit connaissance de son fils, Eric, par photos interposées. Salarié chez Usinor, peintre, il embrassa ensuite (en plus d'Armande) la carrière de routier international. Il dépassa allégrement le million de kilomètres et visita l'Europe de long en large et en travers sachant apprécier, là où il passait, la gastronomie locale. En particulier celle du Sud-Ouest qui contribua à lui faire prendre quelques kilos superflus. Bon, d'accord, elle exagère la balance quand elle indique 105 kilos. Au grand désespoir de Mamie... Bricoleur, il sait tout faire et n'hésite pas à jouer du tournevis et de la cuillère lorsqu'il va chez ses enfants. Autre petit plus : Yvon a un très bon coup de crayon.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300753">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T17:53:46+02:00">07/07/2016 à 17h53min46s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300753</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300753.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="287.35" uly="175.51" lrx="93.73" lry="70.28"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>70 ans déjà !</head>
+            <p> Un bonheur n'arrivant jamais seul, la famille Donatien en profite pour célébrer, outre les noces d'or de leurs Mamie et Papi préférés, les 70 ans du "patriarche". Car Yvon a basculé dans le camp des heureux septuagénaires le jeudi 6 novembre dernier. Encore trente petites années, et ce sémillant jeune homme entrera dans le cercle, plus restreint, des centenaires. Préparez les cartons d'invitation et les bouteilles !</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6300754">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:04:17+02:00">07/07/2016 à 22h04min17s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6300754</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6300754.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="286.83" uly="175.09" lrx="94.19" lry="272.16"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Les routiers sont sympas</head>
+            <p> Les petits-enfants fiers de poser avec leur Papi devant le camion.</p>
+            <p> C'est vrai qu'il est beau le poids lourd de Papi Yvon. Et costaud... le camion ! Mais les longs voyages à travers l'Europe n'étaient pas la seule passion d'Yvon qui adore aller danser avec son épouse. Un petit paso doble par-ci, un langoureux tango par-là et accessoirement un rock déjanté pour finir, histoire de perdre quelques grammes superflus.</p>
+            <p> La musique à la maison Donatien est omniprésente. Y compris dans la voiture. En compagnie d'Eddy, Bony White, Harry Bellafonte ou encore Franck Sinatra. Que des petits jeunes qui ne sont pas passés par la Star Ac...</p>
+            <p> Et puis lorsqu'il reste quelques minutes à tuer, il est toujours temps de regarder à la télé une bonne série policière ("Les experts à Miami" par exemple) ou encore "Plus belle la vie".</p>
+            <p> Quel drame si Mamie Armande rate un épisode !</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303439">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:03:06+02:00">07/07/2016 à 22h03min06s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303439</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303439.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="75161941.65" uly="20.00" lrx="367.22" lry="19.81"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>La famille Donatien au complet pour fêter l'événement</p>
+          <div>
+            <head>----- -----</head>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303813">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T19:16:23+02:00">07/07/2016 à 19h16min23s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303813</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303813.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="72.03" uly="520.82" lrx="52.61" lry="15.16"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>Fraîchement élu à la Maison Blanche, Barack Obama s'est empressé de féliciter les époux</p>
+          <p>Donatien.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303814">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T01:19:23+02:00">08/07/2016 à 01h19min23s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303814</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303814.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="524.32" lrx="53.76" lry="11.66"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Rafael Nadal se dit prêt à relever le défi que lui a lancé Yvon : une partie de bras de fer.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303815">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:53:15+02:00">07/07/2016 à 18h53min15s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303815</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303815.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.39" uly="456.84" lrx="53.34" lry="65.10"/>
+    <graphic url="6303815-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303816">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T00:31:27+02:00">08/07/2016 à 00h31min27s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303816</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303816.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="72.07" uly="456.70" lrx="52.36" lry="62.37"/>
+    <graphic url="6303816-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303817">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:32:24+02:00">07/07/2016 à 18h32min24s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303817</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303817.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="129.47" uly="524.39" lrx="91.42" lry="11.59"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Le dernier James Bond, Daniel Craig et sa partenaire, Satsuki Mitchell, ont répondu favorablement à l'invitation pour le 9 novembre d'Armande et d'Yvon.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303819">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:14:36+02:00">07/07/2016 à 18h14min36s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303819</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303819.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="129.01" uly="456.59" lrx="92.19" lry="65.17"/>
+    <graphic url="6303819-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303820">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:19:19+02:00">07/07/2016 à 22h19min19s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303820</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303820.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="224.49" uly="517.25" lrx="44.31" lry="18.73"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Laurent Blanc souhaite confier à Yvon Donatien le poste de préparateur physique pour son équipe de Bordeaux.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303821">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T17:48:06+02:00">07/07/2016 à 17h48min06s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303821</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303821.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="271.85" uly="509.72" lrx="34.34" lry="26.25"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Yvon a revendu ses quatre villas dans le Midi pour offrir un diamant inestimable à Armanda pour leurs 50 ans de mariage.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303822">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T21:42:25+02:00">07/07/2016 à 21h42min25s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303822</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303822.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="309.44" uly="448.09" lrx="71.65" lry="66.36"/>
+    <graphic url="6303822-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303823">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T05:44:52+02:00">08/07/2016 à 05h44min52s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303823</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303823.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="271.92" uly="456.49" lrx="34.27" lry="51.84"/>
+    <graphic url="6303823-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303824">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T21:07:21+02:00">07/07/2016 à 21h07min21s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303824</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303824.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="224.46" uly="456.38" lrx="44.49" lry="58.94"/>
+    <graphic url="6303824-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303826">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T20:35:22+02:00">07/07/2016 à 20h35min22s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303826</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303826.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="309.65" uly="517.07" lrx="71.47" lry="18.90"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>Sculpture représentant Arma Bovi, alors âgée de 18 ans, réalisée par César.</p>
+          <p>L'artiste lui avait offerte le jour de son mariage avec Yvon. L'oeuvre d'art sera exposée au musée</p>
+          <p>d'Epinal jusqu'à la fin de l'année.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303852">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T23:22:32+02:00">07/07/2016 à 23h22min32s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303852</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303852.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.39" uly="447.00" lrx="53.34" lry="65.10"/>
+    <graphic url="6303852-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303853">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:06:01+02:00">07/07/2016 à 18h06min01s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303853</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303853.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="72.07" uly="446.86" lrx="52.36" lry="62.37"/>
+    <graphic url="6303853-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303854">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:41:00+02:00">07/07/2016 à 22h41min00s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303854</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303854.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="271.92" uly="446.62" lrx="34.27" lry="51.84"/>
+    <graphic url="6303854-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303855">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T17:53:11+02:00">07/07/2016 à 17h53min11s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303855</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303855.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="129.01" uly="446.76" lrx="92.19" lry="65.17"/>
+    <graphic url="6303855-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303856">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:02:13+02:00">07/07/2016 à 22h02min13s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303856</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303856.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="224.46" uly="446.51" lrx="44.49" lry="58.94"/>
+    <graphic url="6303856-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303857">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T06:18:45+02:00">08/07/2016 à 06h18min45s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303857</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303857.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="271.85" uly="499.89" lrx="34.34" lry="26.25"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Yvon a revendu ses quatre villas dans le Midi pour offrir un diamant inestimable à Armanda pour leurs 50 ans de mariage.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303858">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T21:26:22+02:00">07/07/2016 à 21h26min22s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303858</note>
+            <note type="NombrePhotos">1</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303858.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="309.44" uly="438.22" lrx="71.65" lry="66.36"/>
+    <graphic url="6303858-01.jpg">
+      <desc/>
+    </graphic>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303860">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T20:18:59+02:00">07/07/2016 à 20h18min59s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303860</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303860.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="514.45" lrx="53.76" lry="11.66"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Rafael Nadal se dit prêt à relever le défi que lui a lancé Yvon : une partie de bras de fer.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303861">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T03:17:29+02:00">08/07/2016 à 03h17min29s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303861</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303861.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="176.58" uly="339.52" lrx="104.30" lry="14.98"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> 18 octobre 1958 ! Yvon Donatien (à gauche) né le 6 novembre 1938, prend pour épouse la charmante Armande qui a vu le jour le 11 mai 1940. Les deux tourtereaux s'étaient rencontrés dans un bal. Masqué ? Nul ne le sait...</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303864">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T19:23:22+02:00">07/07/2016 à 19h23min22s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303864</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303864.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="72.03" uly="510.95" lrx="52.61" lry="15.16"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>Fraîchement élu à la Maison Blanche, Barack Obama s'est empressé de féliciter les époux</p>
+          <p>Donatien.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303865">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T01:32:58+02:00">08/07/2016 à 01h32min58s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303865</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303865.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.04" uly="165.11" lrx="157.43" lry="56.70"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="PUCE">
+            <p> 18 octobre 1958 - 18 octobre 2008 : c'est fait ! Armande (née Arma Bovi) et Yvon Donatien ont atteint le cap symbolique des 50 ans de mariage qu'ils fêtent, en famille, ce 9 novembre 2008 au Centre des Congrès d'Epinal. Une belle et longue histoire pour ce couple qui donna naissance à trois beaux enfants : Eric, le 5 juin 1959, suivi par Jean-Marc le 29 mai 1961 et la petite dernière, Sylviane née le 5 décembre 1967. Avec l'aide de Nicole, Yvan et Catherine, six magnifiques petits-enfants sont là pour assurer une prolifique descendance : Leslie, Morgane, Delphine, Virginie, Brice et le petit dernier, Valentin. Une belle aventure...</p>
+            <p> Lire notre supplément spécial et en couleur de 88 pages</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303866">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:59:22+02:00">07/07/2016 à 18h59min22s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303866</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303866.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="129.47" uly="514.52" lrx="91.42" lry="11.59"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Le dernier James Bond, Daniel Craig et sa partenaire, Satsuki Mitchell, ont répondu favorablement à l'invitation pour le 9 novembre d'Armande et d'Yvon.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303867">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T00:44:19+02:00">08/07/2016 à 00h44min19s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303867</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303867.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="286.83" uly="165.22" lrx="94.19" lry="272.16"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Les routiers sont sympas</head>
+            <p> Les petits-enfants fiers de poser avec leur Papi devant le camion.</p>
+            <p> C'est vrai qu'il est beau le poids lourd de Papi Yvon. Et costaud... le camion ! Mais les longs voyages à travers l'Europe n'étaient pas la seule passion d'Yvon qui adore aller danser avec son épouse. Un petit paso doble par-ci, un langoureux tango par-là et accessoirement un rock déjanté pour finir, histoire de perdre quelques grammes superflus.</p>
+            <p> La musique à la maison Donatien est omniprésente. Y compris dans la voiture. En compagnie d'Eddy, Bony White, Harry Bellafonte ou encore Franck Sinatra. Que des petits jeunes qui ne sont pas passés par la Star Ac...</p>
+            <p> Et puis lorsqu'il reste quelques minutes à tuer, il est toujours temps de regarder à la télé une bonne série policière ("Les experts à Miami" par exemple) ou encore "Plus belle la vie".</p>
+            <p> Quel drame si Mamie Armande rate un épisode !</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303868">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:37:52+02:00">07/07/2016 à 18h37min52s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303868</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303868.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="286.86" uly="39.92" lrx="94.22" lry="59.54"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Octobre 1958 - Octobre 2008 Un couple exemplaire : des membres de la famille et des amis témoignent...</head>
+            <p>Notre nouveau roman-feuilleton en page 30</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303869">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T23:58:45+02:00">07/07/2016 à 23h58min45s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303869</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303869.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="309.65" uly="507.24" lrx="71.47" lry="18.90"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>Sculpture représentant Arma Bovi, alors âgée de 18 ans, réalisée par César.</p>
+          <p>L'artiste lui avait offerte le jour de son mariage avec Yvon. L'oeuvre d'art sera exposée au musée</p>
+          <p>d'Epinal jusqu'à la fin de l'année.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303870">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T18:02:03+02:00">07/07/2016 à 18h02min03s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303870</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303870.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="339.48" lrx="157.47" lry="15.09"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Les six petits-enfants (quatre filles et deux garçons... vive la parité !) sont prêts à assurer la relève pour, entre autre, payer les retraites des grands-parents et des parents. Chaque fête de Noël est ainsi l'occasion de se retrouver en famille. Les enfants sont gâtés et arborent un large sourire devant le sapin. (Photos d'archives Bibliothèque Nationale)</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303871">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T22:30:05+02:00">07/07/2016 à 22h30min05s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303871</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303871.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="287.35" uly="165.64" lrx="93.73" lry="70.28"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>70 ans déjà !</head>
+            <p> Un bonheur n'arrivant jamais seul, la famille Donatien en profite pour célébrer, outre les noces d'or de leurs Mamie et Papi préférés, les 70 ans du "patriarche". Car Yvon a basculé dans le camp des heureux septuagénaires le jeudi 6 novembre dernier. Encore trente petites années, et ce sémillant jeune homme entrera dans le cercle, plus restreint, des centenaires. Préparez les cartons d'invitation et les bouteilles !</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303872">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T17:50:31+02:00">07/07/2016 à 17h50min31s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303872</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303872.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="360.55" lrx="129.36" lry="76.41"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Armande</head>
+            <div type="PUCE">
+              <p> Excellente couturière, très bonne cuisinière (ah ! ses fameuses tartes au sucre et sa sauce tomate...), Armande, née Arma Bovi, mère au foyer, sait tout faire. Aucune tache sur les vêtements ne peut lui résister. C'est la Mamie anti-taches. D'un dynamisme inébranlable, elle faisait partie d'un club de marche, allait à la gymnastique et à l'aquagym avant qu'une vilaine blessure à la cheville survenue dans une sombre forêt en 1997, ne vienne calmer ses ardeurs. Elle ne sait jamais comment faire pour assouvir les désirs de ses petits-enfants qu'elle adore accueillir pendant les vacances scolaires. Et vive les parties de plaisir dans la grande chambre dortoir ! Sans compter les jeux de cartes. Mais attention, car Mamie Armande n'aime pas perdre...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303873">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T21:52:25+02:00">07/07/2016 à 21h52min25s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303873</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303873.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="14.00" uly="104.39" lrx="367.12" lry="56.21"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>50 ans de bonheur partagé pour Armande et Yvon</head>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303874">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T06:01:49+02:00">08/07/2016 à 06h01min49s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303874</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303874.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="224.49" uly="507.41" lrx="44.31" lry="18.73"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p> Laurent Blanc souhaite confier à Yvon Donatien le poste de préparateur physique pour son équipe de Bordeaux.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303875">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-07T21:16:52+02:00">07/07/2016 à 21h16min52s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303875</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303875.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="75161941.65" uly="75161947.65" lrx="367.22" lry="19.81"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <p>La famille Donatien au complet pour fêter l'événement</p>
+          <div>
+            <head>----- -----</head>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+<TEI xml:id="id2009_01_6303876">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <editionStmt>
+        <edition xml:lang="fr-FR">Fichier généré le <date when="2016-07-08T05:01:43+02:00">08/07/2016 à 05h01min43s</date> dans le cadre du projet
+          ORTOLANG.</edition>
+        <respStmt>
+          <orgName>ATILF</orgName>
+          <name>Marie Tonnelier</name>
+          <name>Vincent Meslard</name>
+          <resp xml:lang="fr-FR">Conversion en TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <distributor xml:lang="fr-FR">ATILF - UMR 7118 - CNRS / Université de Lorraine via l'Equipex ORTOLANG</distributor>
+        <address>
+          <addrLine>44, avenue de la libération</addrLine>
+          <addrLine>BP 30687</addrLine>
+          <addrLine>54063 Nancy Cedex</addrLine>
+          <addrLine>FRANCE</addrLine>
+        </address>
+        <availability status="free">
+          <p xml:lang="fr-FR"><ref target="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons BY-NC 4.0</ref> sous réserve de citation de la source : Est Républicain / ATILF</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="fr-FR">Archives de l'Est Républicain</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Est Républicain</publisher>
+            <date when="2009-01-01">01/01/2009</date>
+            <pubPlace>EPINAL</pubPlace>
+          </publicationStmt>
+          <notesStmt>
+            <note type="Support">LE</note>
+            <note type="Langue">FR</note>
+            <note type="Origine">6303876</note>
+            <note type="NombrePhotos">0</note>
+          </notesStmt>
+          <sourceDesc>
+            <p xml:lang="fr-FR">Ce document TEI a été généré à partir du fichier source : <ref target="2009/01/6303876.xml"/></p>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="151.62" uly="360.66" lrx="129.26" lry="76.62"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="article">
+        <div type="texte">
+          <div type="INTERTITRE">
+            <head>Yvon</head>
+            <div type="PUCE">
+              <p> Une vie bien remplie Papi Yvon ! Parti faire la guerre d'Algérie, il fit connaissance de son fils, Eric, par photos interposées. Salarié chez Usinor, peintre, il embrassa ensuite (en plus d'Armande) la carrière de routier international. Il dépassa allégrement le million de kilomètres et visita l'Europe de long en large et en travers sachant apprécier, là où il passait, la gastronomie locale. En particulier celle du Sud-Ouest qui contribua à lui faire prendre quelques kilos superflus. Bon, d'accord, elle exagère la balance quand elle indique 105 kilos. Au grand désespoir de Mamie... Bricoleur, il sait tout faire et n'hésite pas à jouer du tournevis et de la cuillère lorsqu'il va chez ses enfants. Autre petit plus : Yvon a un très bon coup de crayon.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
+  </teiCorpus>
