@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 groupes pour le projets RE et IE
 France Cazelles, Solveig Poder et Xinyi Shen : traduction automatique
+=======
+groupes pour le projets RE et IE : 
+
+<nom groupe>
+	<nom prenom> <tâche choisie> 
+>>>>>>> 82a2e29cacc100bcd35a17778b34657e57f2e199
