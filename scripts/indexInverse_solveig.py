@@ -17,7 +17,7 @@ cnt = defaultdict(Counter)
 for cle, valeur in tokens.items():
     for item in valeur:
         cnt[cle][item] += 1
-        dico[item].append([cle, cnt[cle][item]])
+        dico[item].append((cle, cnt[cle][item]))
         
         
 for k in sorted(dico.keys()):
