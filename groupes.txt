@@ -1,3 +1,4 @@
-﻿groupes pour le projets RE et IE : 
+groupes pour le projets RE et IE : 
 
 France Cazelles, Solveig Poder et Xinyi Shen : traduction automatique
+Anaëlle Pierredon, Mei Gan et Chinatsu Kuroiwa : Analyse d'opinion / sentiments
