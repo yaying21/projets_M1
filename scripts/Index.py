@@ -3,8 +3,6 @@ import glob
 
 import pprint
 
-import sys
-
 class Document(object) :
 
     def __init__(self,fic,lg='fr'):
@@ -12,9 +10,8 @@ class Document(object) :
         self.name = fic
 
         self.langue = lg
-        print(fic)
 
-        self.content = open(fic,'r').read()
+        self.content = open(fic,encoding='utf-8').read()
 
     def tokenized(self) :
 
@@ -24,6 +21,9 @@ class Document(object) :
         pass
 
     def postaggued(self) :
+        pass
+
+    def lemma_pos(self) :
         pass
 
 class Fable(Document) :
@@ -36,17 +36,18 @@ class Fable(Document) :
 
 
 # class Corpus(object) :
-# coding : utf-8
+
 
 class Index(object) :
 
     def __init__(self,docs):
 
 
+
         self.dic = {}
         self.empty = True
         if type(docs) != list or len(docs) <2 :
-            raise ValueError("Ce n'est pas une liste !!")
+            raise ValueError("Ce n'est pas une liste ou bien elle ne contient qu'un doc")
 
         for doc in docs :
 
@@ -56,39 +57,54 @@ class Index(object) :
             doc.tokenized()
         self.docs = docs
 
+
+    def maxFreq(self,word):
+
+        pass
+
+
     def initialize(self):
 
         if self.empty :
 
             for doc in self.docs :
-                tokens = doc.tokens
-                self.indexing(doc,tokens)
-            pprint.pprint(self.dic)
+                Index.indexing(self,doc,doc.tokens)
             self.empty = False
+            # pprint.pprint(self.dic)
+
         else :
             raise AttributeError("L'index n'est pas vide, vous ne pouvez pas l'initialiser")
-            
-    def indexing(self,doc,tokens) :
-        if not tokens :
-            return 0
 
+    def blockIndex(self,) :
+
+        self.dic = {elem: [(cle, v[cle]) for cle in v] for (elem, v) in self.dic.items()}
+        self.blocked = True
+
+    def unBlockIndex(self):
+
+
+        self.dic = {elem:{tup[0]:tup[1] for tup in v} for (elem, v) in self.dic.items()}
+        self.blocked = False
+
+
+    def indexing(self,doc,tokens):
+        if not tokens :
+            self.words = [cle for cle in self.dic]
+            return  0
         else :
             token = tokens[0]
             if token not in self.dic :
-                self.dic[token] = [{doc.titre:1}]
-            elif token in self.dic and doc.titre not in self.dic[token] :
-                self.dic[token].append({doc.titre:1})
-            else :
-                self.dic[token][doc.titre] += 1
+                self.dic[token] = {doc.titre: 1}
+            else:
+                if doc.titre not in self.dic[token]:
+                    self.dic[token].update({doc.titre: 1})
+                else:
+                    self.dic[token][doc.titre] += 1
             try :
-                return self.indexing(doc,tokens[1:])
-            except RuntimeError :
+                return Index.indexing(self,doc,tokens[1:])
+            except RecursionError :
+                self.words = [cle for cle in self.dic]
                 return 0
-
-
-
-
-
 
 
 
@@ -96,15 +112,19 @@ class Index(object) :
 
 if __name__ == '__main__':
 
-    fables = [Fable(doc) for doc in glob.glob('../fables/train_fables/*.txt')]
+    fables = [Fable(doc) for doc in glob.glob('fables/*')]
 
     index = Index(fables)
 
     index.initialize()
-    
-    new_doc = Fable('../README.md')
+    new_doc = Fable(glob.glob('new_doc/*.txt')[0])
     new_doc.tokenized()
-    tokens = new_doc.tokens
-    index.indexing(new_doc,tokens)
+    index.indexing(new_doc,new_doc.tokens)
+    index.blockIndex()
+    index.unBlockIndex()
+    pprint.pprint(index.dic)
+    max  = index.maxFreq('courage')
+    # index.initialize()
+
 
 
