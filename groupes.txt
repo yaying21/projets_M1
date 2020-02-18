@@ -4,3 +4,4 @@ France Cazelles, Solveig Poder et Xinyi Shen : traduction automatique
 Anaëlle Pierredon, Mei Gan et Chinatsu Kuroiwa : Analyse d'opinion / sentiments
 Kristina Yudenkova, Sophie Repingon, Camille Rey : Classification
 Khaldi Afafe, Yaying liu , Anna Niskovskikh : Analyse d'opinion / sentiments
+Juliette Caron, Klémentina Marina, Martin Digard : Classification
