@@ -8,7 +8,7 @@ class Evaluation(object) :
         self.__vrais_positifs = 0
         self.__faux_positifs = 0
         self.__faux_negatifs = 0
-        self.values = ('0','1')
+        self.values = ('neg','pos')
 
         if len(reference) != len(predit) :
             raise AttributeError("Il y'a un pb dans vos données")
@@ -48,8 +48,8 @@ class Evaluation(object) :
 
 if __name__ == '__main__':
 
-    ref = ['0','1','0','1','0','0']
-    pred = ['0', '0', '1', '1', '0', '0']
+    # ref = ['0','1','0','1','0','0']
+    # pred = ['0', '0', '1', '1', '0', '0']
 
     eval = Evaluation(ref,pred)
 
