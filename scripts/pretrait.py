@@ -1,7 +1,7 @@
 from glob import glob
 import os
 from Evaluation import Evaluation
-
+from Predict import Predict
 predicted = []
 expected = []
 
@@ -16,13 +16,6 @@ def getFile(fic,pol):
             break
 
 
-def predict(content) : 
-    if 'good' in content : 
-        return 'pos' 
-    else :
-        return 'neg'
-
-
 def getcontentlabel(file) :
     
     expect = '' 
@@ -34,15 +27,17 @@ def getcontentlabel(file) :
     return open(file).read(),expect
 
 
-def prediction(predict,file,expect) : 
+def prediction(file,expect) : 
 
-    pred = predict(file)
-    predicted.append(pred)
+
+    pred = Predict(file)
+    pred.predict()
+    predicted.append(pred.predicted)
     expected.append(expect)
 
 
 if __name__ == '__main__':
-    os.system('pwd')
+
 
     for fic in glob('../corpus/imdb/*/*.txt') : 
         print(fic)
@@ -50,12 +45,15 @@ if __name__ == '__main__':
         print(file)
         print(label)
 
-        prediction(predict,file,label)
+        prediction(file,label)
+
+
     print(predicted)
     print(expected)
 
-
     eval = Evaluation(expected,predicted)
+
+    
     print(eval.getVraisPos())
     print(eval.getFauxNeg())
     print(eval.getFauxPos())
