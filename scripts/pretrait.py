@@ -1,7 +1,7 @@
 from glob import glob
 import os
-from Evaluation import Evaluation
-from Predict import Predict
+from scripts.Evaluation import Evaluation
+from scripts.Predict import Predict
 predicted = []
 expected = []
 
